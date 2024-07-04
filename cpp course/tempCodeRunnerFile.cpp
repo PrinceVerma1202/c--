@@ -1,4 +1,6 @@
-const int a = 3;
-
-// cout<<"The value of a was "<<a<<endl;
-// // a= 45;
+for (size_t i = 0; i < 4; i++)
+// {
+//     cout<<i<<endl;
+//     if(i==2)
+//     break;
+// }
